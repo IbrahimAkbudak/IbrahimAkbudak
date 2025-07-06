@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-<h2 align="left">🚀 I am a passionate React Native mobile developer currently learning AWS.</h2>
-
-###
-
-<p align="left">🤝 I’m looking for help with AWS.</p>
+<h2 align="left">🚀 I am a passionate React Native mobile developer currently learning AWS/SQL/Data Science.</h2>
 
 ###
 
