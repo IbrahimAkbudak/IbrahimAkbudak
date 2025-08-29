@@ -1,4 +1,4 @@
-<h2 align="left">🚀 I am a passionate React Native mobile developer currently learning AWS/SQL/ML/Data Science.</h2>
+<h2 align="left">🚀 I am a passionate React Native mobile developer currently learning SQL/Data Science.</h2>
 
 ###
 
